@@ -42,4 +42,13 @@ $ sudo python switch_2.py //for 2 switches and similarly for others
 mininet> xterm h1 h2
 ```
 [once again repeat the same steps]
+
 Sample screenshot(s) of the same
+
+![image](https://github.com/SXJuil/Exploring-mininet/assets/87581247/e187a50d-f462-45f2-85e7-a8baa144afb3)
+
+In the “Node: h1” window just type $ ./server_tcp
+and in the “Node: h2” window just type $ ./client_tcp
+
+![image](https://github.com/SXJuil/Exploring-mininet/assets/87581247/1e5c7c3d-3194-4eb2-9181-25b6d601c44d)
+
